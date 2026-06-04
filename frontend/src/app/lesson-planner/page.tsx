@@ -74,10 +74,10 @@ function SessionCard({ session }: { session: ILAWWeeklyPlan["sessions"][0] }) {
 
 function WaysForwardCard({ wf }: { wf: ILAWWeeklyPlan["ways_forward"] }) {
   const items = [
-    { label: "Remediation (Para sa mga nahihirapan)", content: wf.remediation, color: "border-red-300 bg-red-50" },
-    { label: "Enrichment (Para sa mga advanced)", content: wf.enrichment, color: "border-emerald-300 bg-emerald-50" },
-    { label: "Extended Learning (Take-home)", content: wf.extended_learning, color: "border-blue-300 bg-blue-50" },
-    { label: "Teacher Reflection", content: wf.teacher_reflection, color: "border-purple-300 bg-purple-50" },
+    { label: "Remediation (Para sa mga nahihirapan)", content: wf.remediation || "Bigyan ng flashcards ang mga nahihirapan para sa bahay na pag-aaral.", color: "border-red-300 bg-red-50" },
+    { label: "Enrichment (Para sa mga advanced)", content: wf.enrichment || "Bigyan ng karagdagang gawain ang mga advanced na mag-aaral.", color: "border-emerald-300 bg-emerald-50" },
+    { label: "Extended Learning (Take-home)", content: wf.extended_learning || "Ibahagi sa pamilya ang natutunan ngayon. Humingi ng kanilang reaksiyon.", color: "border-blue-300 bg-blue-50" },
+    { label: "Teacher Reflection", content: wf.teacher_reflection || "Ano ang naging epektibo? Ano ang dapat baguhin para sa susunod na aralin?", color: "border-purple-300 bg-purple-50" },
   ]
   return (
     <div className="bg-white border-2 border-orange-300 rounded-xl overflow-hidden">
