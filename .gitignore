@@ -1,0 +1,28 @@
+# Environment files — never commit these
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Parsed BOW data — regenerated on startup
+bow_parsed/
+
+# Next.js
+frontend/.next/
+frontend/node_modules/
+frontend/.env.local
+
+# Misc
+.DS_Store
+*.log
+Thumbs.db
