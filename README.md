@@ -1,108 +1,36 @@
-# DepEd ILAW Assistant
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-AI-powered lesson planning and diagnostic toolkit for Filipino educators.
+## Getting Started
 
-## Features
-
-- **ILAW Lesson Planner** — Input a BOW objective, auto-split into 4 sessions, generate full classroom-ready ILAW plans
-- **Diagnostic Tracker** — Log Reading, Math, and Health (BMI) assessments per student
-- **Orientation Week Templates** — 5 pre-written ILAW plans for the first week of school
-
-## Stack
-
-| Layer | Technology |
-|---|---|
-| Frontend | Next.js 16, TypeScript, Tailwind CSS |
-| Backend | Python, FastAPI |
-| AI | Claude claude-sonnet-4-6 (Anthropic) |
-| Database | Supabase (PostgreSQL) |
-
----
-
-## Setup
-
-### 1. Supabase Database
-
-1. Create a free project at [supabase.com](https://supabase.com)
-2. Go to **SQL Editor** → paste and run `supabase_schema.sql`
-3. Copy your **Project URL** and **Service Role Key** from Settings → API
-
-### 2. Backend (FastAPI)
+First, run the development server:
 
 ```bash
-cd backend
-python -m venv venv
-venv\Scripts\activate        # Windows
-pip install -r requirements.txt
-
-# Create .env from example
-copy .env.example .env
-# Fill in: GROQ_API_KEY, SUPABASE_URL, SUPABASE_SERVICE_KEY
-
-uvicorn main:app --reload
-```
-
-API runs at `http://localhost:8000`
-Interactive docs: `http://localhost:8000/docs`
-
-### 3. Frontend (Next.js)
-
-```bash
-cd frontend
-npm install
-
-# Create .env.local from example
-copy .env.local.example .env.local
-# Set: NEXT_PUBLIC_API_URL=http://localhost:8000
-
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-App runs at `http://localhost:3000`
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
----
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-## Getting Your API Keys
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### Groq
-1. Go to [console.groq.com](https://console.groq.com)
-2. Create a free API key (no credit card needed)
-3. Model used: `llama-3.3-70b-versatile`
+## Learn More
 
-### Supabase
-1. Project Settings → API
-2. Copy **Project URL** and **service_role** key (not anon key)
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## Project Structure
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-```
-deped-ilaw-assistant/
-├── backend/
-│   ├── app/
-│   │   ├── config.py              # Settings from .env
-│   │   ├── models/
-│   │   │   ├── lesson.py          # Pydantic schemas for lesson planning
-│   │   │   └── diagnostic.py      # Pydantic schemas for assessments
-│   │   ├── services/
-│   │   │   ├── ai_client.py       # Claude API client + system prompt
-│   │   │   ├── ilaw_engine.py     # BOW unpacking + ILAW generation logic
-│   │   │   └── health_calc.py     # BMI calculation
-│   │   └── routers/
-│   │       ├── lesson_plan.py     # POST /api/lesson/unpack, /generate-ilaw
-│   │       ├── diagnostic.py      # Student + assessment CRUD
-│   │       └── orientation.py     # GET /api/orientation/plans
-│   ├── main.py
-│   └── requirements.txt
-├── frontend/
-│   └── src/
-│       ├── app/
-│       │   ├── page.tsx           # Dashboard home
-│       │   ├── lesson-planner/    # BOW → Sessions → ILAW plan
-│       │   ├── diagnostic/        # Student assessments + BMI
-│       │   └── orientation/       # Week 1 templates
-│       └── lib/
-│           └── api.ts             # Typed API client
-└── supabase_schema.sql
-```
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

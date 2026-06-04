@@ -1,0 +1,200 @@
+{
+  "subject_key": "Science",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] Science.pdf",
+  "format_type": "ap",
+  "weeks": {
+    "Term 1 Week 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Week 1",
+      "competency": "Matter in Daily Life Describe matter as anything that has mass and takes up space. Identify that matter has (exists in) three states called solids, liquids, and gases."
+    },
+    "Term 1 Week 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Week 2",
+      "competency": "Matter and the Three States Describe the properties of solids, liquids, and gases in terms of shape and volume:"
+    },
+    "Term 1 Week 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Week 3",
+      "competency": "Matter and the Three States Describe the properties of solids, liquids, and gases in terms of shape and volume:"
+    },
+    "Term 1 Week 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Week 4",
+      "competency": "Matter and the Three States Describe the properties of solids, liquids, and gases in terms of shape and volume:"
+    },
+    "Term 1 Week 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Week 5",
+      "competency": "Scientific Investigation Describe the steps of a simple science investigation: a. What is the problem? b. What materials do you need? c. What do you need to do? d. What have you found out/learned? Identify and appropriately use units in simple science activities, such as milligrams (mg,) grams (g), kilograms (kg), and degrees centigrade (oC). Plan simple scientific investigations in answering questions, such as “Do gases (like air) or liquids (like water) have mass?”, using appropriate simple science equipment, such as a balance, and a thermometer, with appropriate units."
+    },
+    "Term 1 Week 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Week 6",
+      "competency": "Scientific Investigation Describe the steps of a simple science investigation: a. What is the problem? b. What materials do you need? c. What do you need to do? d. What have you found out/learned? Identify and appropriately use units in simple science activities, such as milligrams (mg,) grams (g), kilograms (kg), and degrees centigrade (oC). Plan simple scientific investigations in answering questions, such as “Do gases (like air) or liquids (like water) have mass?”, using appropriate simple science equipment, such as a balance, and a thermometer, with appropriate units."
+    },
+    "Term 1 Week 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Week 7",
+      "competency": "Scientific Investigation Describe the steps of a simple science investigation: a. What is the problem? b. What materials do you need? c. What do you need to do? d. What have you found out/learned? Identify and appropriately use units in simple science activities, such as milligrams (mg,) grams (g), kilograms (kg), and degrees centigrade (oC). Plan simple scientific investigations in answering questions, such as “Do gases (like air) or liquids (like water) have mass?”, using appropriate simple science equipment, such as a balance, and a thermometer, with appropriate units."
+    },
+    "Term 1 Week 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Week 8",
+      "competency": "Plants, Animals, and Microorganisms Use a table to show how living things can be classified into groups based on similar characteristics: a. plants including flowering and non-flowering b. animals including mammals, reptiles, insects, birds, fish, amphibians, and reptiles c. microorganisms including fungi and bacteria Describe the purpose of specialized structures in plants, such as rhizomes, tubers, thorns, bulbs, and aerial roots. Explain how some plants have adapted to unfavorable conditions in the environment, such as lack of rain or floods."
+    },
+    "Term 1 Week 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Week 9",
+      "competency": "Plants, Animals, and Microorganisms Use a table to show how living things can be classified into groups based on similar characteristics: a. plants including flowering and non-flowering b. animals including mammals, reptiles, insects, birds, fish, amphibians, and reptiles c. microorganisms including fungi and bacteria Describe the purpose of specialized structures in plants, such as rhizomes, tubers, thorns, bulbs, and aerial roots. Explain how some plants have adapted to unfavorable conditions in the environment, such as lack of rain or floods."
+    },
+    "Term 1 Week 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Week 10",
+      "competency": "Plants, Animals, and Microorganisms Use a table to show how living things can be classified into groups based on similar characteristics: a. plants including flowering and non-flowering b. animals including mammals, reptiles, insects, birds, fish, amphibians, and reptiles c. microorganisms including fungi and bacteria Describe the purpose of specialized structures in plants, such as rhizomes, tubers, thorns, bulbs, and aerial roots. Explain how some plants have adapted to unfavorable conditions in the environment, such as lack of rain or floods."
+    },
+    "Term 2 Week 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Week 1",
+      "competency": "Body Systems in Animals Identify from pictures and labeled diagrams the parts of the digestive system as mouth, gullet, stomach, small intestine, and large intestine, and describe how they work. Identify from pictures and diagrams the parts of the respiratory system as the nose, windpipe, and lungs, and describe how they work. Identify from pictures and labeled diagrams the parts of the female reproductive system as ovaries, uterus, and vagina and those of the male reproductive system as the prostate, testis, and penis and describe how they work."
+    },
+    "Term 2 Week 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Week 2",
+      "competency": "Body Systems in Animals Identify from pictures and labeled diagrams the parts of the digestive system as mouth, gullet, stomach, small intestine, and large intestine, and describe how they work. Identify from pictures and diagrams the parts of the respiratory system as the nose, windpipe, and lungs, and describe how they work. Identify from pictures and labeled diagrams the parts of the female reproductive system as ovaries, uterus, and vagina and those of the male reproductive system as the prostate, testis, and penis and describe how they work."
+    },
+    "Term 2 Week 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Week 3",
+      "competency": "Body Systems in Animals Identify from pictures and labeled diagrams the parts of the digestive system as mouth, gullet, stomach, small intestine, and large intestine, and describe how they work. Identify from pictures and diagrams the parts of the respiratory system as the nose, windpipe, and lungs, and describe how they work. Identify from pictures and labeled diagrams the parts of the female reproductive system as ovaries, uterus, and vagina and those of the male reproductive system as the prostate, testis, and penis and describe how they work."
+    },
+    "Term 2 Week 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Week 4",
+      "competency": "Life Cycles of Living Things Identify which groups of animals reproduce by giving birth to live young, such as mammals, and which reproduce by laying eggs, such as birds and reptiles."
+    },
+    "Term 2 Week 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Week 5",
+      "competency": "Life Cycles of Living Things Identify which groups of animals reproduce by giving birth to live young, such as mammals, and which reproduce by laying eggs, such as birds and reptiles."
+    },
+    "Term 2 Week 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Week 6",
+      "competency": "Life Cycles of Living Things Identify which groups of animals reproduce by giving birth to live young, such as mammals, and which reproduce by laying eggs, such as birds and reptiles."
+    },
+    "Term 2 Week 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Week 7",
+      "competency": "Contact and Non-Contact Forces Carry out simple investigations to demonstrate that contact forces cause objects to move in the same direction as the direction that the force is applied."
+    },
+    "Term 2 Week 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Week 8",
+      "competency": "Investigating Scientifically: Friction Plan and carry out a scientific investigation to determine the effect of different surfaces on the size of frictional forces. Demonstrate how friction can produce heat and investigate ways of reducing and increasing friction."
+    },
+    "Term 2 Week 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Week 9",
+      "competency": "Investigating Scientifically: Friction Plan and carry out a scientific investigation to determine the effect of different surfaces on the size of frictional forces. Demonstrate how friction can produce heat and investigate ways of reducing and increasing friction."
+    },
+    "Term 2 Week 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Week 10",
+      "competency": "Investigating Scientifically: Gravity Identify gravity as a non-contact force that affects the behaviors of materials and objects on Earth in predictable ways. Predict and explain whether heavier objects will fall faster than lighter objects due to the force of gravity. Observe and describe the effects of gravity to the motion of an object."
+    },
+    "Term 2 Week 11": {
+      "week": "11",
+      "term": "Term 2",
+      "label": "Term 2 — Week 11",
+      "competency": "Investigating Scientifically: Gravity Identify gravity as a non-contact force that affects the behaviors of materials and objects on Earth in predictable ways. Predict and explain whether heavier objects will fall faster than lighter objects due to the force of gravity. Observe and describe the effects of gravity to the motion of an object."
+    },
+    "Term 3 Week 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Week 1",
+      "competency": "Static Electricity Investigate the effects of static electricity using common materials, such as a comb, plastic and glass rods, and balloons."
+    },
+    "Term 3 Week 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Week 2",
+      "competency": "Static Electricity Investigate the effects of static electricity using common materials, such as a comb, plastic and glass rods, and balloons."
+    },
+    "Term 3 Week 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Week 3",
+      "competency": "Landforms, Rocks, and Minerals Identify local examples of natural landforms and bodies of water such as mountains, valleys, rivers, and coastlines, and describe how they influence non-living and living components of the environment. Explore the school grounds or the local area to observe or collect different types of rocks, describing their similarities or differences in terms of their features, such as texture, color, and grain crystal size. Classify common rocks from provided samples using a simple rock classification system, such as a dichotomous key. Explain how soil is formed from rocks and minerals."
+    },
+    "Term 3 Week 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Week 4",
+      "competency": "Landforms, Rocks, and Minerals Identify local examples of natural landforms and bodies of water such as mountains, valleys, rivers, and coastlines, and describe how they influence non-living and living components of the environment. Explore the school grounds or the local area to observe or collect different types of rocks, describing their similarities or differences in terms of their features, such as texture, color, and grain crystal size. Classify common rocks from provided samples using a simple rock classification system, such as a dichotomous key. Explain how soil is formed from rocks and minerals."
+    },
+    "Term 3 Week 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Week 5",
+      "competency": "Landforms, Rocks, and Minerals Identify local examples of natural landforms and bodies of water such as mountains, valleys, rivers, and coastlines, and describe how they influence non-living and living components of the environment. Explore the school grounds or the local area to observe or collect different types of rocks, describing their similarities or differences in terms of their features, such as texture, color, and grain crystal size. Classify common rocks from provided samples using a simple rock classification system, such as a dichotomous key. Explain how soil is formed from rocks and minerals."
+    },
+    "Term 3 Week 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Week 6",
+      "competency": "The Water Cycle and Using Models Explain the role of the water cycle in the environment. Construct a model to communicate some of the key processes in the water cycle."
+    },
+    "Term 3 Week 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Week 7",
+      "competency": "Weather Disturbances Describe some effects of weather disturbances that occur in or near the Philippines. Describe the weather conditions according to a Public Storm Warning Signal issued by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA). Describe typical weather conditions before, during and after a tropical cyclone."
+    },
+    "Term 3 Week 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Week 8",
+      "competency": "Weather Disturbances Describe some effects of weather disturbances that occur in or near the Philippines. Describe the weather conditions according to a Public Storm Warning Signal issued by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA). Describe typical weather conditions before, during and after a tropical cyclone."
+    },
+    "Term 3 Week 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Week 9",
+      "competency": "Weather Disturbances Describe some effects of weather disturbances that occur in or near the Philippines. Describe the weather conditions according to a Public Storm Warning Signal issued by the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA). Describe typical weather conditions before, during and after a tropical cyclone."
+    },
+    "Term 3 Week 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Week 10",
+      "competency": "The Solar System Describe the general structure of the solar system, identifying the names of the major celestial"
+    },
+    "Term 3 Week 11": {
+      "week": "11",
+      "term": "Term 3",
+      "label": "Term 3 — Week 11",
+      "competency": "The Solar System Describe the general structure of the solar system, identifying the names of the major celestial"
+    }
+  }
+}

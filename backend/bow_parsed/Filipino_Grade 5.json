@@ -1,0 +1,464 @@
+{
+  "subject_key": "Filipino",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] Filipino.pdf",
+  "format_type": "filipino",
+  "weeks": {
+    "Term 1 Competency 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak...",
+      "competency": "[Pamantayang Pangnilalaman] Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak ng bokabolaryo (denotasyon, konotasyon, tono, at damdamin) na ginagamit sa pormal at di pormal na mga sitwasyon, lumalagong kaalaman sa mga estrukturang gramatikal, kritikal at lapat na pag-unawa sa tekstong naratibo (mito, epiko, kuwentong kababalaghan, tulang pambata), at tekstong impormatibo (pagsunod sa panuto, hakbang at proseso), at umuunlad na kasanayang produktibo, paggamit ng tekstong biswal at elementong multimedia sa pagsusuri at pagpapakahulugan upang makabuo ng tekstong tumatalakay sa mga paksang patungkol sa lokal o rehiyonal at bansa na may kaangkupan sa edad, kasarian, paksa at kultura (pasalita, pasulat, at biswal) na batay sa layunin, konteksto, at target na madla."
+    },
+    "Term 1 Competency 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa ...",
+      "competency": "[Pamantayan sa Pagganap] Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa wastong gramatika, kaangkupan ng salita/retorika, estilo, at estruktura sa paggawa ng tekstong naglalahad ng mga mungkahing hakbang na gagawin bilang solusyon sa isang usaping panlokal, panrehiyon o pambansa."
+    },
+    "Term 1 Competency 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Nauunawaan ang tekstong naratibo (mito, epiko, tulang p...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong naratibo (mito, epiko, tulang pambata, at kuwentong kababalaghan) (a) Napagsusunod- sunod ang mga pangyayaring hindi bababa sa pito (b) Nailalarawan ang tauhan batay sa kilos, gawi at pananalita (c) Nakikilala ang realidad at pantasya (d) Naibibigay ang natuklasang kaalaman sa teksto (e) Nakapagbibigay ng angkop na pamagat ng teksto (f) Naibibigay ang sariling solusyon sa suliranin"
+    },
+    "Term 1 Competency 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Natutukoy ang tayutay (pagwawangis o metapora at pagsas...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Natutukoy ang tayutay (pagwawangis o metapora at pagsasatao o personipikasyon) sa pagbibigay-kahulugan ng pahayag sa binasa o napakinggang teksto"
+    },
+    "Term 1 Competency 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Naiuugnay ang mga pangyayari sa teksto sa sariling kara...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Naiuugnay ang mga pangyayari sa teksto sa sariling karanasan"
+    },
+    "Term 1 Competency 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Nauunawaan ang tekstong impormatibo (pagsunod-sunod sa ...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong impormatibo (pagsunod-sunod sa panuto, hakbang at proseso) (a) Napagsusunod-sunod ang mga panuto/hakbang/proseso (b) Naisasaayos ang mga hakbang/proseso (c) Naipaliliwanag ang panuto"
+    },
+    "Term 1 Competency 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Nasusuri ang layon ng teksto • magsalaysay (mito, epiko...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nasusuri ang layon ng teksto • magsalaysay (mito, epiko, tulang pambata, at kuwentong kababalaghan) • maglahad (pagsunod-sunod sa panuto, hakbang at proseso)"
+    },
+    "Term 1 Competency 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang mga salitang may denotasyon at konotasyon...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga salitang may denotasyon at konotasyong kahulugan sa pagbuo ng pangungusap (a) panandang konteksto ● kasingkahulugan ● kasalungat ● pagbibigay ng halimbawa (b) tayutay ● pagwawangis o metapora ● pagsasatao o personipikasyon"
+    },
+    "Term 1 Competency 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang angkop na diksiyon (kaangkupan ng salita/...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na diksiyon (kaangkupan ng salita/retorika at estilo) sa pagpapahayag ayon sa: (a) layon (magsalaysay at maglahad) (b) kahulugan (c) tagapakinig/tagapanood/mambabasa (d) konteksto (Pambansang Pistang Opisyal) (e) tono at damdamin (f) pananaw ng tagapagsalita/manunulat (una at ikalawang panauhan)"
+    },
+    "Term 1 Competency 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Nakabubuo ng pahayag gamit ang hugnayang pangungusap...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng pahayag gamit ang hugnayang pangungusap"
+    },
+    "Term 1 Competency 11": {
+      "week": "11",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang mga panlapi at bahagi ng panalita sa pagp...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga panlapi at bahagi ng panalita sa pagpapahayag"
+    },
+    "Term 1 Competency 12": {
+      "week": "12",
+      "term": "Term 1",
+      "label": "Term 1 — (a) Pang-uri ● pamilang (palansak) ● kaantasan (pahambi...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (a) Pang-uri ● pamilang (palansak) ● kaantasan (pahambing)"
+    },
+    "Term 1 Competency 13": {
+      "week": "13",
+      "term": "Term 1",
+      "label": "Term 1 — (b) Pang-abay • panang-ayon • panalungat...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (b) Pang-abay • panang-ayon • panalungat"
+    },
+    "Term 1 Competency 14": {
+      "week": "14",
+      "term": "Term 1",
+      "label": "Term 1 — (c) Pandiwa ● pokus (tagaganap/actor, tagatanggap/benep...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (c) Pandiwa ● pokus (tagaganap/actor, tagatanggap/benepaktibo)"
+    },
+    "Term 1 Competency 15": {
+      "week": "15",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang pangkalahatang kayarian ng teksto sa pagb...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang pangkalahatang kayarian ng teksto sa pagbuo ng diskurso • nagsasalaysay (mito, epiko, tulang pambata, at kuwentong kababalaghan) • naglalahad (pagsunod-sunod sa panuto, hakbang at proseso)"
+    },
+    "Term 1 Competency 16": {
+      "week": "16",
+      "term": "Term 1",
+      "label": "Term 1 — Nakabubuo ng tekstong may mga panandang nag-uugnay ng m...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng tekstong may mga panandang nag-uugnay ng mga ideya ayon sa layon, kahulugan, tagapakinig/mambabasa, at konteksto (a) tekstong naratibo (mito, epiko, tulang pambata, at kuwentong kababalaghan) (b) tekstong impormatibo (pagsunod-sunod sa panuto, hakbang at proseso)"
+    },
+    "Term 1 Competency 17": {
+      "week": "17",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura sa iba’t ibang sitwasyon: ● pakikihalubilo sa ibang tao (pagpapakilala, pangungumusta, pag-anyaya sa pagkain, pagpapatuloy sa bahay, pakikisangkot sa biruan sa positibong paraan, pagtatanong)"
+    },
+    "Term 1 Competency 18": {
+      "week": "18",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang angkop na mga nakagawiang di-berbal na hu...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na mga nakagawiang di-berbal na hudyat sa pagpapahayag: • pagtoonan ng tingin • pandama o paghawak"
+    },
+    "Term 1 Competency 19": {
+      "week": "19",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura tuwing may Pambansang Pistang Opisyal"
+    },
+    "Term 1 Competency 20": {
+      "week": "20",
+      "term": "Term 1",
+      "label": "Term 1 — Nakabubuo ng teksto batay sa iba’t ibang layon at trans...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng teksto batay sa iba’t ibang layon at transaksiyonal na teksto ● liham pangkaibigan (pangungumusta)"
+    },
+    "Term 1 Competency 21": {
+      "week": "21",
+      "term": "Term 1",
+      "label": "Term 1 — Nasasagutan ang pormularyo batay sa iba’t ibang layon: ...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nasasagutan ang pormularyo batay sa iba’t ibang layon: ● form (enrolment form)"
+    },
+    "Term 1 Competency 22": {
+      "week": "22",
+      "term": "Term 1",
+      "label": "Term 1 — Nagagamit ang mga pangkalahatang sanggunian • diksiyona...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga pangkalahatang sanggunian • diksiyonaryo • ensayklopidya • direktoryo"
+    },
+    "Term 1 Competency 23": {
+      "week": "23",
+      "term": "Term 1",
+      "label": "Term 1 — Natutukoy ang mga elemento ng multimedia • text (headli...",
+      "competency": "[Panonood at Presentasyon] Natutukoy ang mga elemento ng multimedia • text (headlines, subtitles at slogans) • graphics (still images, drawings, graphs, illustrations, icons, atbp.)"
+    },
+    "Term 1 Competency 24": {
+      "week": "24",
+      "term": "Term 1",
+      "label": "Term 1 — Nabibigyang-kahulugan ang mga elemento ng multimedia...",
+      "competency": "[Panonood at Presentasyon] Nabibigyang-kahulugan ang mga elemento ng multimedia"
+    },
+    "Term 1 Competency 25": {
+      "week": "25",
+      "term": "Term 1",
+      "label": "Term 1 — Nasusuri ang kaangkupan ng mga elementong multimedia sa...",
+      "competency": "[Panonood at Presentasyon] Nasusuri ang kaangkupan ng mga elementong multimedia sa target na manonood"
+    },
+    "Term 2 Competency 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak...",
+      "competency": "[Pamantayang Pangnilalaman] Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak ng bokabolaryo (denotasyon, konotasyon, tono, at damdamin) na ginagamit sa pormal at di pormal na mga sitwasyon, lumalagong kaalaman sa mga estrukturang gramatikal, kritikal at lapat na pag-unawa sa tekstong naratibo (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) at tekstong impormatibo (balita/balitang lathalain), at umuunlad na kasanayang produktibo, paggamit ng tekstong biswal at elementong multimedia sa pagusuri at pagpapakahulugan upang makabuo ng tekstong tumatalakay sa mga paksang patungkol sa lokal o rehiyonal at bansa na may kaangkupan sa edad, kasarian, paksa at kultura (pasalita, pasulat, at biswal) na batay sa layunin, konteksto, at target na madla."
+    },
+    "Term 2 Competency 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa ...",
+      "competency": "[Pamantayan sa Pagganap] Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa wastong gramatika, kaangkupan ng salita/retorika, estilo, at estruktura sa paggawa ng tuwirang balita/balitang lathalain tungkol sa napapanahong isyu sa lokal, rehiyonal, o bansa."
+    },
+    "Term 2 Competency 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Nauunawaan ang tekstong naratibo (tulang pambata, kuwen...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong naratibo (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) (a) Natutukoy ang mahahalagang detalye (b) Naibibigay ang kahulugan ng kilos at pahayag ng tauhan (c) Natutukoy ang magkakaugnay na pangyayari (d) Naibibigay ang opinyon at reaksiyon sa ikinilos ng tauhan (e) Nababago ang katangian o pag-uugali ng mga tauhan (f) Natutukoy ang sanhi at bunga ng mga pangyayari (g) Nakapagbubuod ng mga pangyayari"
+    },
+    "Term 2 Competency 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Natutukoy ang tayutay (kabalintunaan o ironiya) sa pagb...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Natutukoy ang tayutay (kabalintunaan o ironiya) sa pagbibigay-kahulugan ng pahayag sa binasa o napakinggang teksto"
+    },
+    "Term 2 Competency 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Naiuugnay ang mga pangyayari sa teksto sa sariling kara...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Naiuugnay ang mga pangyayari sa teksto sa sariling karanasan"
+    },
+    "Term 2 Competency 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Nauunawaan ang tekstong impormatibo (balita/balitang la...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong impormatibo (balita/balitang lathalain) (a) Naibibigay ang mahahalagang impormasyon/detalyeng nakapaloob (b) Nakapagbibigay ng sariling opinyon (c) Nasusuri ang katotohanan at opinyon"
+    },
+    "Term 2 Competency 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Nasusuri ang layon ng teksto • magsalaysay (tulang pamb...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nasusuri ang layon ng teksto • magsalaysay (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) • maglahad (balita/balitang lathalain)"
+    },
+    "Term 2 Competency 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang mga salitang may denotasyon at konotasyon...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga salitang may denotasyon at konotasyong kahulugan sa pagbuo ng pangungusap (a) panandang konteksto ● kasingkahulugan ● kasalungat ● pagbibigay ng halimbawa (b) tayutay ● kabalintunaan o ironiya"
+    },
+    "Term 2 Competency 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang angkop na diksiyon (kaangkupan ng salita/...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na diksiyon (kaangkupan ng salita/retorika at estilo) sa pagpapahayag ayon sa: (a) layon (magsalaysay at maglahad) (b) kahulugan (c) tagapakinig/tagapanood/mambabasa (d) konteksto (Ramadan at Chinese New Year) (e) tono at damdamin (f) pananaw ng tagapagsalita/manunulat (una at ikalawang panauhan)"
+    },
+    "Term 2 Competency 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Nakabubuo ng pahayag gamit ang langkapang pangungusap...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng pahayag gamit ang langkapang pangungusap"
+    },
+    "Term 2 Competency 11": {
+      "week": "11",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang mga panlapi at bahagi ng panalita sa pagp...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga panlapi at bahagi ng panalita sa pagpapahayag"
+    },
+    "Term 2 Competency 12": {
+      "week": "12",
+      "term": "Term 2",
+      "label": "Term 2 — (a) Pang-uri ● pamilang (pahalaga) ● kaantasan (pasukdo...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (a) Pang-uri ● pamilang (pahalaga) ● kaantasan (pasukdol)"
+    },
+    "Term 2 Competency 13": {
+      "week": "13",
+      "term": "Term 2",
+      "label": "Term 2 — (b) Pang-abay • kondisyonal...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (b) Pang-abay • kondisyonal"
+    },
+    "Term 2 Competency 14": {
+      "week": "14",
+      "term": "Term 2",
+      "label": "Term 2 — (c) Pandiwa ● pokus (layon at gamit/instrumental)...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (c) Pandiwa ● pokus (layon at gamit/instrumental)"
+    },
+    "Term 2 Competency 15": {
+      "week": "15",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang pangkalahatang kayarian ng teksto sa pagb...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang pangkalahatang kayarian ng teksto sa pagbuo ng diskurso • nagsasalaysay (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) • naglalahad (balita/balitang lathalain)"
+    },
+    "Term 2 Competency 16": {
+      "week": "16",
+      "term": "Term 2",
+      "label": "Term 2 — Nakabubuo ng tekstong may mga panandang nag-uugnay ng m...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng tekstong may mga panandang nag-uugnay ng mga ideya ayon sa layon, kahulugan, tagapakinig/mambabasa, at konteksto (a) tekstong naratibo (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) (b) tekstong impormatibo (balita/balitang lathalain)"
+    },
+    "Term 2 Competency 17": {
+      "week": "17",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura sa iba’t ibang sitwasyon: ● pakikihalubilo sa ibang tao (pagpapakilala, pangungumusta, pag-anyaya sa pagkain, pagpapatuloy sa bahay, pakikisangkot sa biruan sa positibong paraan, pagtatanong)"
+    },
+    "Term 2 Competency 18": {
+      "week": "18",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang angkop na mga nakagawiang di-berbal na hu...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na mga nakagawiang di-berbal na hudyat sa pagpapahayag: • pagtoonan ng tingin • pandama o paghawak"
+    },
+    "Term 2 Competency 19": {
+      "week": "19",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura tuwing may Ramadan at Chinese New Year"
+    },
+    "Term 2 Competency 20": {
+      "week": "20",
+      "term": "Term 2",
+      "label": "Term 2 — Nakabubuo ng teksto batay sa iba’t ibang layon at trans...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng teksto batay sa iba’t ibang layon at transaksiyonal na teksto ● liham pangkaibigan (pagbabalita-pagkukuwento)"
+    },
+    "Term 2 Competency 21": {
+      "week": "21",
+      "term": "Term 2",
+      "label": "Term 2 — Nasasagutan ang pormularyo batay sa iba’t ibang layon: ...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nasasagutan ang pormularyo batay sa iba’t ibang layon: ● form (ID Card, Library Card)"
+    },
+    "Term 2 Competency 22": {
+      "week": "22",
+      "term": "Term 2",
+      "label": "Term 2 — Nagagamit ang mga pangkalahatang sanggunian • almanac...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga pangkalahatang sanggunian • almanac"
+    },
+    "Term 2 Competency 23": {
+      "week": "23",
+      "term": "Term 2",
+      "label": "Term 2 — Natutukoy ang mga elemento ng multimedia • audio (dialo...",
+      "competency": "[Panonood at Presentasyon] Natutukoy ang mga elemento ng multimedia • audio (dialogue, recorded narration, music, sound effects, stingers, atbp.) • video (clip, film, tv ads, slide shows, atbp.) • animation (two-dimensional, three-dimensional)"
+    },
+    "Term 2 Competency 24": {
+      "week": "24",
+      "term": "Term 2",
+      "label": "Term 2 — Nabibigyang-kahulugan ang mga elemento ng multimedia...",
+      "competency": "[Panonood at Presentasyon] Nabibigyang-kahulugan ang mga elemento ng multimedia"
+    },
+    "Term 2 Competency 25": {
+      "week": "25",
+      "term": "Term 2",
+      "label": "Term 2 — Nakilala ang mga elemento sa tekstong multimedia • imah...",
+      "competency": "[Panonood at Presentasyon] Nakilala ang mga elemento sa tekstong multimedia • imahen • layo • paksa"
+    },
+    "Term 3 Competency 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak...",
+      "competency": "[Pamantayang Pangnilalaman] Naipamamalas ng mag-aaral ang kahusayan sa pagpapalawak ng bokabolaryo (denotasyon, konotasyon, tono, at damdamin) na ginagamit sa pormal at di pormal na mga sitwasyon, lumalagong kaalaman sa mga estrukturang gramatikal, kritikal at lapat na pag-unawa sa tekstong naratibo (tulang pambata, kuwentong katatakutan, at maikling kuwento, dulang pambata) at tekstong impormatibo (eksposisyon), at umuunlad na kasanayang produktibo, paggamit ng tekstong biswal at elementong multimedia sa pagusuri at pagpapakahulugan upang makabuo ng tekstong tumatalakay sa mga paksang patungkol sa lokal o rehiyonal at bansa na may kaangkupan sa edad, kasarian, paksa at kultura (pasalita, pasulat, at biswal) na batay sa layunin, konteksto, at target na madla."
+    },
+    "Term 3 Competency 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa ...",
+      "competency": "[Pamantayan sa Pagganap] Nagagamit ng mag-aaral ang pagkakaroon ng kahusayan sa wastong gramatika, kaangkupan ng salita/retorika, estilo, at estruktura sa paggawa ng tekstong nagsasalaysay na ipinagmamalaki ang sariling komunidad, rehiyon, o bansa."
+    },
+    "Term 3 Competency 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Nauunawaan ang tekstong naratibo (tulang pambata, kuwen...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong naratibo (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) (a) Natutukoy ang pananaw ng tagapagsalita/manunulat (ikalawa -nakikipag-usap) (b) Nahuhulaan ang posibleng kalalabasan ng pangyayari (c) Nakapagbibigay ng hinuha sa tema at genre (d) Naibibigay ang opinyon at reaksiyon sa pangyayari (e) Naibibigay ang pagkakaiba at pagkakatulad ng mga pangyayari (f) Naiiba o nababago ang mga pangyayari sa teksto"
+    },
+    "Term 3 Competency 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Natutukoy ang tayutay (pagmamalabis/hyperbole) sa pagbi...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Natutukoy ang tayutay (pagmamalabis/hyperbole) sa pagbibigay-kahulugan ng pahayag sa binasa o napakinggang teksto"
+    },
+    "Term 3 Competency 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Naiuugnay ang mga pangyayari sa teksto sa sariling kara...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Naiuugnay ang mga pangyayari sa teksto sa sariling karanasan"
+    },
+    "Term 3 Competency 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Nauunawaan ang tekstong impormatibo (eksposisyon) (a) N...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nauunawaan ang tekstong impormatibo (eksposisyon) (a) Naibibigay ang mahahalagang impormasyon na nakapaloob sa teksto (b) Nasusuri ang ugnayang sanhi at bunga (c) Naibibigay ang kongklusyon"
+    },
+    "Term 3 Competency 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Nasusuri ang layon ng teksto • magsalaysay (tulang pamb...",
+      "competency": "[Pakikinig at Pagbasa (Kasanayang Pagtanggap)] Nasusuri ang layon ng teksto • magsalaysay (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) • magpaliwanag (eksposisyon)"
+    },
+    "Term 3 Competency 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang mga salitang may denotasyon at konotasyon...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga salitang may denotasyon at konotasyong kahulugan sa pagbuo ng pangungusap (a) panandang konteksto ● kasingkahulugan ● kasalungat ● pagbibigay ng halimbawa (b) tayutay ● pagmamalabis/hyperbole"
+    },
+    "Term 3 Competency 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang angkop na diksiyon (kaangkupan ng salita/...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na diksiyon (kaangkupan ng salita/retorika at estilo) sa pagpapahayag ayon sa: (a) layon (magsalaysay at maglahad) (b) kahulugan (c) tagapakinig/tagapanood/mambabasa (d) konteksto (katutubo at panrehiyong pagdiriwang) (e) tono at damdamin (f) pananaw ng tagapagsalita/manunulat (una, ikalawang at ikatlong panauhan)"
+    },
+    "Term 3 Competency 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Nakabubuo ng pahayag gamit ang langkapang pangungusap...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng pahayag gamit ang langkapang pangungusap"
+    },
+    "Term 3 Competency 11": {
+      "week": "11",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang mga bahagi ng panalita sa pagpapahayag...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga bahagi ng panalita sa pagpapahayag"
+    },
+    "Term 3 Competency 12": {
+      "week": "12",
+      "term": "Term 3",
+      "label": "Term 3 — (a) Pang-uri ● pamilang (patakda)...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (a) Pang-uri ● pamilang (patakda)"
+    },
+    "Term 3 Competency 13": {
+      "week": "13",
+      "term": "Term 3",
+      "label": "Term 3 — (b) Pandiwa ● pokus (sanhi/kawsatib, ganapan/lokatib at...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] (b) Pandiwa ● pokus (sanhi/kawsatib, ganapan/lokatib at direksiyonal)"
+    },
+    "Term 3 Competency 14": {
+      "week": "14",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang pangkalahatang kayarian ng teksto sa pagb...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang pangkalahatang kayarian ng teksto sa pagbuo ng diskurso • nagsasalaysay (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) • nagpapaliwanag (eksposisyon)"
+    },
+    "Term 3 Competency 15": {
+      "week": "15",
+      "term": "Term 3",
+      "label": "Term 3 — Nakabubuo ng tekstong may mga panandang nag-uugnay ng m...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng tekstong may mga panandang nag-uugnay ng mga ideya ayon sa layon, kahulugan, tagapakinig/mambabasa, at konteksto (a) tekstong naratibo (tulang pambata, kuwentong katatakutan, maikling kuwento at dulang pambata) (b) tekstong impormatibo (eksposisyon)"
+    },
+    "Term 3 Competency 16": {
+      "week": "16",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura sa iba’t ibang sitwasyon: ● pakikihalubilo sa ibang tao (pagpapakilala, pangungumusta, pag-anyaya sa pagkain, pagpapatuloy sa bahay, pakikisangkot sa biruan sa positibong paraan, pagtatanong)"
+    },
+    "Term 3 Competency 17": {
+      "week": "17",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang angkop na mga nakagawiang di-berbal na hu...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na mga nakagawiang di-berbal na hudyat sa pagpapahayag: • pagtoonan ng tingin • pandama o paghawak"
+    },
+    "Term 3 Competency 18": {
+      "week": "18",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang angkop na wika sa pagpapahayag na isinasa...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang angkop na wika sa pagpapahayag na isinasaalang-alang ang edad, kasarian, paksa, at kultura tuwing may katutubo at panrehiyong pagdiriwang"
+    },
+    "Term 3 Competency 19": {
+      "week": "19",
+      "term": "Term 3",
+      "label": "Term 3 — Nakabubuo ng teksto batay sa iba’t ibang layon at trans...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nakabubuo ng teksto batay sa iba’t ibang layon at transaksiyonal na teksto ● liham pangkaibigan (pagtugon sa paanyaya at paghingi ng paumanhin)"
+    },
+    "Term 3 Competency 20": {
+      "week": "20",
+      "term": "Term 3",
+      "label": "Term 3 — Nasasagutan ang pormularyo batay sa iba’t ibang layon: ...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nasasagutan ang pormularyo batay sa iba’t ibang layon: ● form (Request Form)"
+    },
+    "Term 3 Competency 21": {
+      "week": "21",
+      "term": "Term 3",
+      "label": "Term 3 — Nagagamit ang mga pangkalahatang sanggunian • pahayagan...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] Nagagamit ang mga pangkalahatang sanggunian • pahayagan • magasin"
+    },
+    "Term 3 Competency 22": {
+      "week": "22",
+      "term": "Term 3",
+      "label": "Term 3 — • handbook at manwal...",
+      "competency": "[Pagsasalita at Pagsulat (Kasanayang Produktibo)] • handbook at manwal"
+    },
+    "Term 3 Competency 23": {
+      "week": "23",
+      "term": "Term 3",
+      "label": "Term 3 — Nabibigyang-kahulugan ang mga elemento ng tekstong mult...",
+      "competency": "[Panonood at Presentasyon] Nabibigyang-kahulugan ang mga elemento ng tekstong multimedia"
+    },
+    "Term 3 Competency 24": {
+      "week": "24",
+      "term": "Term 3",
+      "label": "Term 3 — Nasusuri ang mga tiyak na elemento sa tekstong multimed...",
+      "competency": "[Panonood at Presentasyon] Nasusuri ang mga tiyak na elemento sa tekstong multimedia • imahen • layon • paksa"
+    },
+    "Term 3 Competency 25": {
+      "week": "25",
+      "term": "Term 3",
+      "label": "Term 3 — Naipaliliwanag ang kaangkupan ng mga elemento sa teksto...",
+      "competency": "[Panonood at Presentasyon] Naipaliliwanag ang kaangkupan ng mga elemento sa tekstong multimedia • imahen • layon • paksa"
+    },
+    "Term 3 Competency 26": {
+      "week": "26",
+      "term": "Term 3",
+      "label": "Term 3 — Nakabubuo ng pahayag sa tekstong multimedia...",
+      "competency": "[Panonood at Presentasyon] Nakabubuo ng pahayag sa tekstong multimedia"
+    }
+  }
+}

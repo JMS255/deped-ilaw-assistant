@@ -1,0 +1,188 @@
+{
+  "subject_key": "Araling Panlipunan",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] Araling Panlipunan  (1) (1).pdf",
+  "format_type": "ap",
+  "weeks": {
+    "Term 1 Week 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Week 1",
+      "competency": "Naipaliliwanag ang pag-aaral ng kasaysayan at mga batayan nito Natatalakay ang mga pamamaraan at pananaw ng kasaysayan"
+    },
+    "Term 1 Week 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Week 2",
+      "competency": "Natutukoy ang pinagmulan ng Pilipinas batay sa agham, kaalamang bayan, at relihiyon"
+    },
+    "Term 1 Week 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Week 3",
+      "competency": "Nasusuri ang pinagmulan ng sinaunang tao sa Pilipinas batay sa agham at kaalamang bayan"
+    },
+    "Term 1 Week 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Week 4",
+      "competency": "Nasusuri ang kaugnayan ng lokasyon sa paghubog ng kasaysayan"
+    },
+    "Term 1 Week 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Week 5",
+      "competency": "Nasusuri ang mga sinaunang bayang Pilipino batay sa organisasyong panlipunan, pang-ekonomiya, at pampolitika"
+    },
+    "Term 1 Week 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Week 6",
+      "competency": "Napahahalagahan ang ginampanan ng kababaihan sa pagbuo ng kalinangan ng sinaunang Pilipino Naipaliliwanag ang konsepto ng kalinangan at uri nito"
+    },
+    "Term 1 Week 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Week 7",
+      "competency": "Nasusuri ang mga paniniwala, relihiyon, at tradisyon ng sinaunang bayang Pilipino"
+    },
+    "Term 1 Week 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Week 8",
+      "competency": "Natatalakay ang iba't ibang uri ng sinaunang sining, pagpapalamuti at arkitektura ng mga Pilipino."
+    },
+    "Term 1 Week 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Week 9",
+      "competency": "Natatalakay ang pagdating at paglaganap ng Islam Nasusuri ang mga katuruan ng Islam at pamahalaang sultanato"
+    },
+    "Term 1 Week 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Week 10",
+      "competency": "Napahahalagahan ang ugnayan ng sinaunang bayang Pilipino sa ilang piling bansa sa Asya"
+    },
+    "Term 2 Week 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Week 1",
+      "competency": "Natutukoy ang kahulugan at mga dahilan ng kolonisasyon Nasusuri ang mga paraan sa pagsasailalim sa lipunang Pilipino"
+    },
+    "Term 2 Week 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Week 2",
+      "competency": "Natutukoy ang kahulugan at mga dahilan ng kolonisasyon Nasusuri ang mga paraan sa pagsasailalim sa lipunang Pilipino"
+    },
+    "Term 2 Week 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Week 3",
+      "competency": "Nasusuri ang mga patakarang kolonyal na ipinatupad ng Espanya sa bansa"
+    },
+    "Term 2 Week 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Week 4",
+      "competency": "Nasusuri ang mga patakarang kolonyal na ipinatupad ng Espanya sa bansa"
+    },
+    "Term 2 Week 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Week 5",
+      "competency": "Nasusuri ang mga patakarang kolonyal na ipinatupad ng Espanya sa bansa"
+    },
+    "Term 2 Week 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Week 6",
+      "competency": "Nasusuri ang mga paraan ng pag-aangkop at pagtugon ng mga Pilipino sa kolonyalismong Espanyol"
+    },
+    "Term 2 Week 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Week 7",
+      "competency": "Nasusuri ang mga paraan ng pag-aangkop at pagtugon ng mga Pilipino sa kolonyalismong Espanyol"
+    },
+    "Term 2 Week 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Week 8",
+      "competency": "Natatalakay ang katayuan ng kababaihan sa panahon ng kolonyalismong Espanyol"
+    },
+    "Term 2 Week 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Week 9",
+      "competency": "Nasusuri ang mga pagpupunyagi, kinahinatnan, at implikasyon ng pagtatanggol ng mga katutubong pangkat kababaihan, at iba pang sektor na mapanatili ang kalayaan sa kolonyalismo"
+    },
+    "Term 2 Week 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Week 10",
+      "competency": "Nasusuri ang mga pagpupunyagi, kinahinatnan, at implikasyon ng pagtatanggol ng mga katutubong pangkat kababaihan, at iba pang sektor na mapanatili ang kalayaan sa kolonyalismo"
+    },
+    "Term 3 Week 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Week 1",
+      "competency": "Nasusuri ang konsepto ng nasyonalismo"
+    },
+    "Term 3 Week 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Week 2",
+      "competency": "Nasusuri ang pagbabagong dulot ng kaisipang liberal sa pag-usbong ng nasyonalismo"
+    },
+    "Term 3 Week 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Week 3",
+      "competency": "Nasusuri ang pagbabagong dulot ng kaisipang liberal sa pag-usbong ng nasyonalismo"
+    },
+    "Term 3 Week 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Week 4",
+      "competency": "Nasusuri ang ambag ng panggitnang uri sa pag-usbing ng nasyonalismong Pilipino"
+    },
+    "Term 3 Week 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Week 5",
+      "competency": "Nasusuri ang ambag ng panggitnang uri sa pag-usbing ng nasyonalismong Pilipino"
+    },
+    "Term 3 Week 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Week 6",
+      "competency": "Naipaliliwanag ang kilusan para sa sekularisasyon at Pilipinisasyon ng mga Parokya"
+    },
+    "Term 3 Week 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Week 7",
+      "competency": "Nasusuri ang mga idinulot ng Cavite Mutiny at paggarote sa GOMBURZA sa pag-usbong ng nasyonalismong Pilipino"
+    },
+    "Term 3 Week 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Week 8",
+      "competency": "Naiisa-isa ang mga layunin ng pagkakatatag ng Kilusang Propaganda"
+    },
+    "Term 3 Week 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Week 9",
+      "competency": "Naiisa-isa ang mga layunin ng pagkakatatag ng Kilusang Propaganda"
+    },
+    "Term 3 Week 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Week 10",
+      "competency": "Nasusuri ang papel na ginampanan ng Kilusang Propaganda sa pag-usbong ng nasyonalismo"
+    }
+  }
+}

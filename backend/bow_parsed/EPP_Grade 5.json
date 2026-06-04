@@ -1,0 +1,188 @@
+{
+  "subject_key": "EPP",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] EPP_ AFA _ FCS _ IA (1).pdf",
+  "format_type": "ap",
+  "weeks": {
+    "Term 1 Week 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Week 1",
+      "competency": "Agriculture and Fishery Arts Natatalakay ang kahulugan ng animal production at mga sangay nito. Natatalakay ang kahalagahan at kabutihang dulot sa pag-aalaga ng poultry animals sa natural na pamamaraan."
+    },
+    "Term 1 Week 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Week 2",
+      "competency": "Agriculture and Fishery Arts Naipaliliwanag ang mga piling batas, local na ordinansa, at mga ahensya ng gobyerno at non-government organization (NGOs), at serbisyong naibibigay sa pag-aalaga ng poultry animals."
+    },
+    "Term 1 Week 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Week 3",
+      "competency": "Agriculture and Fishery Arts Nakikilala ang mga tao sa pamayanan/buong bansa na nagtagumpay sa pag-alaga ng poultry animals at ang mga katangiang taglay nila."
+    },
+    "Term 1 Week 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Week 4",
+      "competency": "Agriculture and Fishery Arts"
+    },
+    "Term 1 Week 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Week 5",
+      "competency": "Agriculture and Fishery Arts Natatalakay ang mga karaniwang uri at lahi ng poultry animals na makikita sapamayanan na maaaring alagaan. Natatalakay ang mga karaniwang sakit, sanhi, palatandaan, pamaraan sa pag iwas at panlunas sa mga sakit ng poultry animals."
+    },
+    "Term 1 Week 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Week 6",
+      "competency": "Agriculture and Fishery Arts Naisasagawa ang pag-aalaga at pangangasiwa ng poultry animals sa natural na pamamaraan."
+    },
+    "Term 1 Week 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Week 7",
+      "competency": "Agriculture and Fishery Arts Naisasagawa ang pag-aalaga at pangangasiwa ng poultry animals sa natural na pamamaraan."
+    },
+    "Term 1 Week 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Week 8",
+      "competency": "Agriculture and Fishery Arts Natatalakay ang pag-aani ng alagang poultry animals at mga produkto nito."
+    },
+    "Term 1 Week 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Week 9",
+      "competency": "Agriculture and Fishery Arts Nakapagbebenta ng mga inaning poultry animals at produkto nito."
+    },
+    "Term 1 Week 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Week 10",
+      "competency": "Agriculture and Fishery Arts Nakapagbebenta ng mga inaning poultry animals at produkto nito."
+    },
+    "Term 2 Week 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Week 1",
+      "competency": "Family and Consumer Science Natatalakay ang kahalagahan ng pananahi. Nakikilala ang iba’t ibang kagamitan sa pananahi."
+    },
+    "Term 2 Week 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Week 2",
+      "competency": "Family and Consumer Science Naisasagawa ang mga basic hand stitch nang may pag-iingat."
+    },
+    "Term 2 Week 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Week 3",
+      "competency": "Family and Consumer Science Natutukoy ang mga payak na sira ng kasuotan. Naisasagawa ang angkop na pagkukumpuni ng mga simpleng sira ng kasuotan gamit ang basic hand stitch nang may pag-iingat."
+    },
+    "Term 2 Week 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Week 4",
+      "competency": "Family and Consumer Science Natutukoy ang mga bahagi ng makina at wastong gamit nito. Natutukoy ang mga materyales sa pagbuo ng mga kagamitang pambahay."
+    },
+    "Term 2 Week 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Week 5",
+      "competency": "Family and Consumer Science Natatalakay ang mga solusyon sa mga karaniwang suliraning nararanasan sa pananahi gamit ang makina. Nasusunod ang mga hakbang sa paggamit ng makina."
+    },
+    "Term 2 Week 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Week 6",
+      "competency": "Family and Consumer Science Nakagagawa ng simpleng kagamitang pambahay gamit ang makina nang may pag-iingat."
+    },
+    "Term 2 Week 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Week 7",
+      "competency": "Family and Consumer Science Nakagagawa ng simpleng kagamitang pambahay gamit ang makina nang may pag-iingat."
+    },
+    "Term 2 Week 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Week 8",
+      "competency": "Family and Consumer Science Natutukoy ang mga kagamitan sa embroidery stitches. Nasusunod ang mga wastong pamamaraan ng pagbuo ng embroidery stitches. Natutukoy ang mga kagamitan sa crochet stitches."
+    },
+    "Term 2 Week 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Week 9",
+      "competency": "Family and Consumer Science Nakagagawa ng crochet stitches."
+    },
+    "Term 2 Week 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Week 10",
+      "competency": "Family and Consumer Science Naisasagawa ang pagbebenta ng kagamitang pambahay."
+    },
+    "Term 3 Week 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Week 1",
+      "competency": "Industrial Arts Natatalakay ang mga karaniwang sira at pamamaraan ng pagkukumpuni ng mga produktong yari sa kahoy, kawayan, metal, produktong de-kuryente, at iba pa."
+    },
+    "Term 3 Week 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Week 2",
+      "competency": "Industrial Arts Naipaliliwanag ang maingat na paggamit ng mga kasangkapan sa pagkukumpuni. Natutukoy ang mga uri ng materyales sa pagkukumpuni."
+    },
+    "Term 3 Week 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Week 3",
+      "competency": "Industrial Arts Natutukoy ang wastong pangangalaga at pagsisinop ng kasangkapan at materyales sa pagkukumpuni."
+    },
+    "Term 3 Week 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Week 4",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang yari sa kahoy o kawayan nang may pag-iingat."
+    },
+    "Term 3 Week 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Week 5",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang yari sa kahoy o kawayan nang may pag-iingat."
+    },
+    "Term 3 Week 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Week 6",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang yari sa metal nang may pag-iingat."
+    },
+    "Term 3 Week 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Week 7",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang yari sa metal nang may pag-iingat."
+    },
+    "Term 3 Week 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Week 8",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang de-kuryente nang may pag-iingat."
+    },
+    "Term 3 Week 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Week 9",
+      "competency": "Industrial Arts Pagkukumpuni ng mga kagamitang de-kuryente nang may pag-iingat."
+    },
+    "Term 3 Week 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Week 10",
+      "competency": "Industrial Arts Natutuos ang service cost sa inayos na kagamitan manually o gamit ang spreadsheet."
+    }
+  }
+}

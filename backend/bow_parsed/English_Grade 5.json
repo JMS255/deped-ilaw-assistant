@@ -1,0 +1,500 @@
+{
+  "subject_key": "English",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] English.pdf",
+  "format_type": "english",
+  "weeks": {
+    "Term 1 Competency 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): noting important e",
+      "competency": "[Listening and Reading (receptive skills)] noting important elements (story grammar)"
+    },
+    "Term 2 Competency 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): noting important e",
+      "competency": "[Listening and Reading (receptive skills)] noting important elements (story grammar)"
+    },
+    "Term 3 Competency 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): noting important e",
+      "competency": "[Listening and Reading (receptive skills)] noting important elements (story grammar)"
+    },
+    "Term 1 Competency 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 2 Competency 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 3 Competency 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 1 Competency 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): identifying the ma",
+      "competency": "[Listening and Reading (receptive skills)] identifying the main idea"
+    },
+    "Term 2 Competency 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): identifying the ma",
+      "competency": "[Listening and Reading (receptive skills)] identifying the main idea"
+    },
+    "Term 3 Competency 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): identifying the ma",
+      "competency": "[Listening and Reading (receptive skills)] identifying the main idea"
+    },
+    "Term 1 Competency 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): summarizing story ",
+      "competency": "[Listening and Reading (receptive skills)] summarizing story events"
+    },
+    "Term 2 Competency 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): summarizing story ",
+      "competency": "[Listening and Reading (receptive skills)] summarizing story events"
+    },
+    "Term 3 Competency 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): summarizing story ",
+      "competency": "[Listening and Reading (receptive skills)] summarizing story events"
+    },
+    "Term 1 Competency 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 2 Competency 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 3 Competency 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): drawing conclusion",
+      "competency": "[Listening and Reading (receptive skills)] drawing conclusions"
+    },
+    "Term 1 Competency 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): making generalizat",
+      "competency": "[Listening and Reading (receptive skills)] making generalizations"
+    },
+    "Term 2 Competency 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): making generalizat",
+      "competency": "[Listening and Reading (receptive skills)] making generalizations"
+    },
+    "Term 3 Competency 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): making generalizat",
+      "competency": "[Listening and Reading (receptive skills)] making generalizations"
+    },
+    "Term 1 Competency 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): making a summary",
+      "competency": "[Listening and Reading (receptive skills)] making a summary"
+    },
+    "Term 2 Competency 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): making a summary",
+      "competency": "[Listening and Reading (receptive skills)] making a summary"
+    },
+    "Term 3 Competency 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): making a summary",
+      "competency": "[Listening and Reading (receptive skills)] making a summary"
+    },
+    "Term 1 Competency 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Listening and Reading (receptive skills): distinguishing fac",
+      "competency": "[Listening and Reading (receptive skills)] distinguishing fact from opinion (statements of facts, opinions, and fact-based statements of opinion)"
+    },
+    "Term 2 Competency 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Listening and Reading (receptive skills): distinguishing fac",
+      "competency": "[Listening and Reading (receptive skills)] distinguishing fact from opinion (statements of facts, opinions, and fact-based statements of opinion)"
+    },
+    "Term 3 Competency 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Listening and Reading (receptive skills): distinguishing fac",
+      "competency": "[Listening and Reading (receptive skills)] distinguishing fact from opinion (statements of facts, opinions, and fact-based statements of opinion)"
+    },
+    "Term 1 Competency 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): formal",
+      "competency": "[Speaking and Writing (productive skills)] formal"
+    },
+    "Term 2 Competency 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): formal",
+      "competency": "[Speaking and Writing (productive skills)] formal"
+    },
+    "Term 3 Competency 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): formal",
+      "competency": "[Speaking and Writing (productive skills)] formal"
+    },
+    "Term 1 Competency 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): composing compound",
+      "competency": "[Speaking and Writing (productive skills)] composing compound-complex sentences"
+    },
+    "Term 2 Competency 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): composing compound",
+      "competency": "[Speaking and Writing (productive skills)] composing compound-complex sentences"
+    },
+    "Term 3 Competency 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): composing compound",
+      "competency": "[Speaking and Writing (productive skills)] composing compound-complex sentences"
+    },
+    "Term 1 Competency 11": {
+      "week": "11",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): giving relevant in",
+      "competency": "[Speaking and Writing (productive skills)] giving relevant information on a given topic"
+    },
+    "Term 2 Competency 11": {
+      "week": "11",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): giving relevant in",
+      "competency": "[Speaking and Writing (productive skills)] giving relevant information on a given topic"
+    },
+    "Term 3 Competency 11": {
+      "week": "11",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): giving relevant in",
+      "competency": "[Speaking and Writing (productive skills)] giving relevant information on a given topic"
+    },
+    "Term 1 Competency 12": {
+      "week": "12",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using friendly let",
+      "competency": "[Speaking and Writing (productive skills)] using friendly letters (e.g., excuse, invitation, gratitude, etc.)"
+    },
+    "Term 2 Competency 12": {
+      "week": "12",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using friendly let",
+      "competency": "[Speaking and Writing (productive skills)] using friendly letters (e.g., excuse, invitation, gratitude, etc.)"
+    },
+    "Term 3 Competency 12": {
+      "week": "12",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using friendly let",
+      "competency": "[Speaking and Writing (productive skills)] using friendly letters (e.g., excuse, invitation, gratitude, etc.)"
+    },
+    "Term 1 Competency 13": {
+      "week": "13",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using facial expre",
+      "competency": "[Speaking and Writing (productive skills)] using facial expressions"
+    },
+    "Term 2 Competency 13": {
+      "week": "13",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using facial expre",
+      "competency": "[Speaking and Writing (productive skills)] using facial expressions"
+    },
+    "Term 3 Competency 13": {
+      "week": "13",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using facial expre",
+      "competency": "[Speaking and Writing (productive skills)] using facial expressions"
+    },
+    "Term 1 Competency 14": {
+      "week": "14",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using gestures",
+      "competency": "[Speaking and Writing (productive skills)] using gestures"
+    },
+    "Term 2 Competency 14": {
+      "week": "14",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using gestures",
+      "competency": "[Speaking and Writing (productive skills)] using gestures"
+    },
+    "Term 3 Competency 14": {
+      "week": "14",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using gestures",
+      "competency": "[Speaking and Writing (productive skills)] using gestures"
+    },
+    "Term 1 Competency 15": {
+      "week": "15",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using eye contact",
+      "competency": "[Speaking and Writing (productive skills)] using eye contact"
+    },
+    "Term 2 Competency 15": {
+      "week": "15",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using eye contact",
+      "competency": "[Speaking and Writing (productive skills)] using eye contact"
+    },
+    "Term 3 Competency 15": {
+      "week": "15",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using eye contact",
+      "competency": "[Speaking and Writing (productive skills)] using eye contact"
+    },
+    "Term 1 Competency 16": {
+      "week": "16",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using haptics",
+      "competency": "[Speaking and Writing (productive skills)] using haptics"
+    },
+    "Term 2 Competency 16": {
+      "week": "16",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using haptics",
+      "competency": "[Speaking and Writing (productive skills)] using haptics"
+    },
+    "Term 3 Competency 16": {
+      "week": "16",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using haptics",
+      "competency": "[Speaking and Writing (productive skills)] using haptics"
+    },
+    "Term 1 Competency 17": {
+      "week": "17",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using posture",
+      "competency": "[Speaking and Writing (productive skills)] using posture"
+    },
+    "Term 2 Competency 17": {
+      "week": "17",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using posture",
+      "competency": "[Speaking and Writing (productive skills)] using posture"
+    },
+    "Term 3 Competency 17": {
+      "week": "17",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using posture",
+      "competency": "[Speaking and Writing (productive skills)] using posture"
+    },
+    "Term 1 Competency 18": {
+      "week": "18",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): using proxemics an",
+      "competency": "[Speaking and Writing (productive skills)] using proxemics and blocking"
+    },
+    "Term 2 Competency 18": {
+      "week": "18",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): using proxemics an",
+      "competency": "[Speaking and Writing (productive skills)] using proxemics and blocking"
+    },
+    "Term 3 Competency 18": {
+      "week": "18",
+      "term": "Term 3",
+      "label": "Term 3 — Speaking and Writing (productive skills): using proxemics an",
+      "competency": "[Speaking and Writing (productive skills)] using proxemics and blocking"
+    },
+    "Term 1 Competency 19": {
+      "week": "19",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): personal data form",
+      "competency": "[Speaking and Writing (productive skills)] personal data forms"
+    },
+    "Term 1 Competency 20": {
+      "week": "20",
+      "term": "Term 1",
+      "label": "Term 1 — Speaking and Writing (productive skills): school forms",
+      "competency": "[Speaking and Writing (productive skills)] school forms"
+    },
+    "Term 2 Competency 19": {
+      "week": "19",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): bank forms",
+      "competency": "[Speaking and Writing (productive skills)] bank forms"
+    },
+    "Term 2 Competency 20": {
+      "week": "20",
+      "term": "Term 2",
+      "label": "Term 2 — Speaking and Writing (productive skills): composite/ governm",
+      "competency": "[Speaking and Writing (productive skills)] composite/ government forms"
+    },
+    "Term 1 Competency 21": {
+      "week": "21",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: using layout (margin, grid, header",
+      "competency": "[Viewing and Representing] using layout (margin, grid, header, slide bar)"
+    },
+    "Term 2 Competency 21": {
+      "week": "21",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: using directionality (linear, over",
+      "competency": "[Viewing and Representing] using directionality (linear, overlapping shapes)"
+    },
+    "Term 1 Competency 22": {
+      "week": "22",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: interpreting tone and mood (colors",
+      "competency": "[Viewing and Representing] interpreting tone and mood (colors, space, layout, directionality)"
+    },
+    "Term 2 Competency 22": {
+      "week": "22",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: interpreting tone and mood (colors",
+      "competency": "[Viewing and Representing] interpreting tone and mood (colors, space, layout, directionality)"
+    },
+    "Term 3 Competency 19": {
+      "week": "19",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: interpreting tone and mood (colors",
+      "competency": "[Viewing and Representing] interpreting tone and mood (colors, space, layout, directionality)"
+    },
+    "Term 1 Competency 23": {
+      "week": "23",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: identifying the purpose of the vis",
+      "competency": "[Viewing and Representing] identifying the purpose of the visual text"
+    },
+    "Term 2 Competency 23": {
+      "week": "23",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: identifying the purpose of the vis",
+      "competency": "[Viewing and Representing] identifying the purpose of the visual text"
+    },
+    "Term 3 Competency 20": {
+      "week": "20",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: identifying the purpose of the vis",
+      "competency": "[Viewing and Representing] identifying the purpose of the visual text"
+    },
+    "Term 1 Competency 24": {
+      "week": "24",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: analyzing how visual elements cont",
+      "competency": "[Viewing and Representing] analyzing how visual elements contribute to the meaning of a text"
+    },
+    "Term 2 Competency 24": {
+      "week": "24",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: analyzing how visual elements cont",
+      "competency": "[Viewing and Representing] analyzing how visual elements contribute to the meaning of a text"
+    },
+    "Term 3 Competency 21": {
+      "week": "21",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: analyzing how visual elements cont",
+      "competency": "[Viewing and Representing] analyzing how visual elements contribute to the meaning of a text"
+    },
+    "Term 1 Competency 25": {
+      "week": "25",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: Evaluate cultural appropriateness ",
+      "competency": "[Viewing and Representing] Evaluate cultural appropriateness of visual elements."
+    },
+    "Term 2 Competency 25": {
+      "week": "25",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: Evaluate cultural appropriateness ",
+      "competency": "[Viewing and Representing] Evaluate cultural appropriateness of visual elements."
+    },
+    "Term 3 Competency 22": {
+      "week": "22",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: Evaluate cultural appropriateness ",
+      "competency": "[Viewing and Representing] Evaluate cultural appropriateness of visual elements."
+    },
+    "Term 1 Competency 26": {
+      "week": "26",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: Create a visual text drawn from vi",
+      "competency": "[Viewing and Representing] Create a visual text drawn from visual elements learned."
+    },
+    "Term 2 Competency 26": {
+      "week": "26",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: Create a visual text drawn from vi",
+      "competency": "[Viewing and Representing] Create a visual text drawn from visual elements learned."
+    },
+    "Term 3 Competency 23": {
+      "week": "23",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: Create a visual text drawn from vi",
+      "competency": "[Viewing and Representing] Create a visual text drawn from visual elements learned."
+    },
+    "Term 1 Competency 27": {
+      "week": "27",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: audio (dialogue, recorded narratio",
+      "competency": "[Viewing and Representing] audio (dialogue, recorded narration, music, sound effects)"
+    },
+    "Term 2 Competency 27": {
+      "week": "27",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: video (clip, film, tv ads, slide s",
+      "competency": "[Viewing and Representing] video (clip, film, tv ads, slide show, etc.)"
+    },
+    "Term 3 Competency 24": {
+      "week": "24",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: video (clip, film, tv ads, slide s",
+      "competency": "[Viewing and Representing] video (clip, film, tv ads, slide show, etc.)"
+    },
+    "Term 1 Competency 28": {
+      "week": "28",
+      "term": "Term 1",
+      "label": "Term 1 — Viewing and Representing: identifying the author’s purpose",
+      "competency": "[Viewing and Representing] identifying the author’s purpose"
+    },
+    "Term 2 Competency 28": {
+      "week": "28",
+      "term": "Term 2",
+      "label": "Term 2 — Viewing and Representing: identifying the author’s purpose",
+      "competency": "[Viewing and Representing] identifying the author’s purpose"
+    },
+    "Term 3 Competency 25": {
+      "week": "25",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: identifying the author’s purpose",
+      "competency": "[Viewing and Representing] identifying the author’s purpose"
+    },
+    "Term 3 Competency 26": {
+      "week": "26",
+      "term": "Term 3",
+      "label": "Term 3 — Viewing and Representing: Create a multimedia text drawn fro",
+      "competency": "[Viewing and Representing] Create a multimedia text drawn from multimedia elements learned."
+    }
+  }
+}

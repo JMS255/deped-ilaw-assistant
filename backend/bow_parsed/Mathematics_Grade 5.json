@@ -1,0 +1,188 @@
+{
+  "subject_key": "Mathematics",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] Mathematics.pdf",
+  "format_type": "ap",
+  "weeks": {
+    "Term 1 Week 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Week 1",
+      "competency": "Measurement and Geometry Describe a 12- and 24-hour clock system. Convert 12-hour time to 24-hour time, and vice-versa. Solve problems involving 12- and 24-hour time."
+    },
+    "Term 1 Week 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Week 2",
+      "competency": "Measurement and Geometry Compare the time in different world time zones to the time in the Philippines using a world time zone map. Solve problems on comparing the time in different world time zones to the time in the Philippines."
+    },
+    "Term 1 Week 3": {
+      "week": "3",
+      "term": "Term 1",
+      "label": "Term 1 — Week 3",
+      "competency": "Number and Algebra Perform three or more different operations by applying the GMDAS rules. Multiply fractions using models. Multiply a fraction by a fraction."
+    },
+    "Term 1 Week 4": {
+      "week": "4",
+      "term": "Term 1",
+      "label": "Term 1 — Week 4",
+      "competency": "Number and Algebra Perform three or more different operations by applying the GMDAS rules. Multiply fractions using models. Multiply a fraction by a fraction."
+    },
+    "Term 1 Week 5": {
+      "week": "5",
+      "term": "Term 1",
+      "label": "Term 1 — Week 5",
+      "competency": "Number and Algebra Solve multi-step problems involving multiplication of fractions that may or may not also involve addition or subtraction of fractions."
+    },
+    "Term 1 Week 6": {
+      "week": "6",
+      "term": "Term 1",
+      "label": "Term 1 — Week 6",
+      "competency": "Measurement and Geometry Identify the height of a parallelogram, triangle, and trapezoid, in different orientations. Find the area of a parallelogram, triangle, and trapezoid, in sq. cm or sq. m, using formulas. Estimate the areas of triangles and quadrilaterals (parallelogram, rhombus, trapezoid) using grids."
+    },
+    "Term 1 Week 7": {
+      "week": "7",
+      "term": "Term 1",
+      "label": "Term 1 — Week 7",
+      "competency": "Measurement and Geometry Identify the height of a parallelogram, triangle, and trapezoid, in different orientations. Find the area of a parallelogram, triangle, and trapezoid, in sq. cm or sq. m, using formulas. Estimate the areas of triangles and quadrilaterals (parallelogram, rhombus, trapezoid) using grids."
+    },
+    "Term 1 Week 8": {
+      "week": "8",
+      "term": "Term 1",
+      "label": "Term 1 — Week 8",
+      "competency": "Number and Algebra Divide fractions using models. Divide a fraction by a fraction."
+    },
+    "Term 1 Week 9": {
+      "week": "9",
+      "term": "Term 1",
+      "label": "Term 1 — Week 9",
+      "competency": "Number and Algebra Solve multi-step problems involving division of fractions that may or may not involve the other operations with fractions."
+    },
+    "Term 1 Week 10": {
+      "week": "10",
+      "term": "Term 1",
+      "label": "Term 1 — Week 10",
+      "competency": "Number and Algebra Determine: a. The place value to thousandths of a digit in a given decimal number"
+    },
+    "Term 2 Week 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Week 1",
+      "competency": "Number and Algebra Convert terminating decimals to fractions, and vice versa. Compare and order decimal numbers with decimal parts to thousandths."
+    },
+    "Term 2 Week 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Week 2",
+      "competency": "Number and Algebra Round decimal numbers to the nearest thousandths. Add and subtract decimal numbers with decimal parts of up to 3 decimal places."
+    },
+    "Term 2 Week 3": {
+      "week": "3",
+      "term": "Term 2",
+      "label": "Term 2 — Week 3",
+      "competency": "Number and Algebra Solve multi-step problems involving addition and/or subtraction of decimals, including problems involving money."
+    },
+    "Term 2 Week 4": {
+      "week": "4",
+      "term": "Term 2",
+      "label": "Term 2 — Week 4",
+      "competency": "Number and Algebra Use divisibility rules to find common factors of numbers: a. divisibility rules for 2, 5, and 10 b. divisibility rules for 3, 6, and 9 c. divisibility rules for 4, 8, 11, and 12 Distinguish prime numbers from composite numbers using the Sieve of Eratosthenes."
+    },
+    "Term 2 Week 5": {
+      "week": "5",
+      "term": "Term 2",
+      "label": "Term 2 — Week 5",
+      "competency": "Number and Algebra Use divisibility rules to find common factors of numbers: a. divisibility rules for 2, 5, and 10 b. divisibility rules for 3, 6, and 9 c. divisibility rules for 4, 8, 11, and 12 Distinguish prime numbers from composite numbers using the Sieve of Eratosthenes."
+    },
+    "Term 2 Week 6": {
+      "week": "6",
+      "term": "Term 2",
+      "label": "Term 2 — Week 6",
+      "competency": "Data and Probability Collects bivariate data from interview, questionnaire, and other appropriate sources. Identify the appropriate graph (bar graph or line graph) to represent a given set of data."
+    },
+    "Term 2 Week 7": {
+      "week": "7",
+      "term": "Term 2",
+      "label": "Term 2 — Week 7",
+      "competency": "Data and Probability Construct double bar graphs and double line graphs. Interpret data presented in a double bar graph or a double line graph. Draw conclusions or make inferences based on data presented in a double bar graph or a double line graph."
+    },
+    "Term 2 Week 8": {
+      "week": "8",
+      "term": "Term 2",
+      "label": "Term 2 — Week 8",
+      "competency": "Data and Probability Construct double bar graphs and double line graphs. Interpret data presented in a double bar graph or a double line graph. Draw conclusions or make inferences based on data presented in a double bar graph or a double line graph."
+    },
+    "Term 2 Week 9": {
+      "week": "9",
+      "term": "Term 2",
+      "label": "Term 2 — Week 9",
+      "competency": "Data and Probability Solve problems using data presented in a double bar graph or a double line graph."
+    },
+    "Term 2 Week 10": {
+      "week": "10",
+      "term": "Term 2",
+      "label": "Term 2 — Week 10",
+      "competency": "Data and Probability Describe probability as a measure of the chance of an event occurring. Calculate the theoretical probability of a simple event by listing all possible outcomes."
+    },
+    "Term 3 Week 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Week 1",
+      "competency": "Number and Algebra Estimate each of two decimal numbers to the nearest whole number to estimate their product. Multiply decimal numbers with decimal parts of up to 2 decimal places. Solve multi-step problems involving multiplication of decimals that may or may not also involve addition or subtraction of decimals, including problems involving money."
+    },
+    "Term 3 Week 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Week 2",
+      "competency": "Number and Algebra Estimate each of two decimal numbers to the nearest whole number to estimate their product. Multiply decimal numbers with decimal parts of up to 2 decimal places. Solve multi-step problems involving multiplication of decimals that may or may not also involve addition or subtraction of decimals, including problems involving money."
+    },
+    "Term 3 Week 3": {
+      "week": "3",
+      "term": "Term 3",
+      "label": "Term 3 — Week 3",
+      "competency": "Number and Algebra Estimate the quotient when dividing two decimal numbers by estimating the dividend and divisor to the nearest whole number."
+    },
+    "Term 3 Week 4": {
+      "week": "4",
+      "term": "Term 3",
+      "label": "Term 3 — Week 4",
+      "competency": "Number and Algebra Estimate the quotient when dividing two decimal numbers by estimating the dividend and divisor to the nearest whole number."
+    },
+    "Term 3 Week 5": {
+      "week": "5",
+      "term": "Term 3",
+      "label": "Term 3 — Week 5",
+      "competency": "Number and Algebra Perform three or more different operations with fractions and decimals by applying the GMDAS rules."
+    },
+    "Term 3 Week 6": {
+      "week": "6",
+      "term": "Term 3",
+      "label": "Term 3 — Week 6",
+      "competency": "Measurement and Geometry Illustrate different solid figures using concrete and pictorial models. Relate plane figures to solid figures using concrete and pictorial models."
+    },
+    "Term 3 Week 7": {
+      "week": "7",
+      "term": "Term 3",
+      "label": "Term 3 — Week 7",
+      "competency": "Measurement and Geometry Describe and differentiate prisms and pyramids using their vertices, faces, and/or edges. Illustrate and describe solid figures and their nets."
+    },
+    "Term 3 Week 8": {
+      "week": "8",
+      "term": "Term 3",
+      "label": "Term 3 — Week 8",
+      "competency": "Measurement and Geometry Make models of solid figures. Illustrate and find the surface area of solid figures."
+    },
+    "Term 3 Week 9": {
+      "week": "9",
+      "term": "Term 3",
+      "label": "Term 3 — Week 9",
+      "competency": "Measurement and Geometry Solve problems involving the surface area of solid figures. Describe and distinguish cubes and rectangular prisms."
+    },
+    "Term 3 Week 10": {
+      "week": "10",
+      "term": "Term 3",
+      "label": "Term 3 — Week 10",
+      "competency": "Measurement and Geometry Estimate the volume of a cube and of a rectangular prism using non-standard units of measurement."
+    }
+  }
+}

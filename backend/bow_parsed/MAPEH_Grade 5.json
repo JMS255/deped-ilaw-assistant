@@ -1,0 +1,44 @@
+{
+  "subject_key": "MAPEH",
+  "grade": "Grade 5",
+  "pdf_filename": "[G5] MAPEH.pdf",
+  "format_type": "mapeh",
+  "weeks": {
+    "Term 1 Component 1": {
+      "week": "1",
+      "term": "Term 1",
+      "label": "Term 1 — Music and Arts Exploring Forms, Functions, Mediums, Patterns...",
+      "competency": "Music and Arts Exploring Forms, Functions, Mediums, Patterns, and Practices of the Early Philippine Music and Arts Discuss various Forms, Functions, Mediums, Patterns, and Practices of the early Philippine performing and visual arts in their locality/province/region. Categorize and apply mediums, patterns, symbolisms, and other relevant practices—such as rhythm, tempo, choice of motifs, materials, and mediums—found in their region during the early Philippine period in the creation of performing and visual arts. Assess sample works based on the personal meanings derived from the early Philippine performing and visual arts. Adapt the conventional processes and practices of early Philippine performing and visual arts in their creative works. Evaluate creative works based on identified conventions during the early Philippine performing and visual arts."
+    },
+    "Term 1 Component 2": {
+      "week": "2",
+      "term": "Term 1",
+      "label": "Term 1 — Physical Education and Health Apply various healthy coping s...",
+      "competency": "Physical Education and Health Apply various healthy coping strategies to manage stress. Demonstrate assertive behaviour to prevent and deal with bullying, harassment, discrimination, and violence. Describe concepts, effects, and ways to manage changes during puberty. Analyze various family roles in managing changes during puberty. Perform physical activities using striking/fielding and or net/wall game concepts with agility,"
+    },
+    "Term 2 Component 1": {
+      "week": "1",
+      "term": "Term 2",
+      "label": "Term 2 — Music and Arts Exploring Philippine Music and Arts during th...",
+      "competency": "Music and Arts Exploring Philippine Music and Arts during the 16th – 17th Century (1521- 1600) Differentiate the relevant changing styles, functions, and conventions in performing and visual arts processes and practices between the 16th – 17th Century. Determine the styles, and functions of representative works based on the concepts, processes, and practices in performing and visual arts of the 16th – 17th Century. Apply the mediums, patterns, forms, and relevant practices in performing and visual arts in the production of creative works inspired by their locality/province and regions during the 16th – 17th Century. Examine their creative works based on accepted conventional processes and practices in performing and visual arts during the 16th – 17th Century."
+    },
+    "Term 2 Component 2": {
+      "week": "2",
+      "term": "Term 2",
+      "label": "Term 2 — Physical Education and Health Explain the proper use of medi...",
+      "competency": "Physical Education and Health Explain the proper use of medicines as health products to prevent misuse and harm to the body. Analyze the negative effects of gateway drugs on the individual, family, and the community. Determine the negative effects of medicine misuse and use of gateway drugs to physical activity and fitness. Participate actively in different rhythmic activities and dances for maintaining their movement competence and physical activity participation."
+    },
+    "Term 3 Component 1": {
+      "week": "1",
+      "term": "Term 3",
+      "label": "Term 3 — Music and Arts Exploring Music and Arts as Influenced by Mid...",
+      "competency": "Music and Arts Exploring Music and Arts as Influenced by Middle Spanish Colonial Period (1600-1800) Distinguish relevant concepts, processes, and practices applied in the different performing and visual arts during the 17th – 18th Century in their locality/ province/ region. Discuss contemporary forms in performing and visual arts inspired by the conventions during 17th – 18th Century. Evaluate creative works based on identified conventions during the 17th – 18th Century. Adapt conventional processes and practice in performingandvisualartsduringthe17th–18th Century in their creative works."
+    },
+    "Term 3 Component 2": {
+      "week": "2",
+      "term": "Term 3",
+      "label": "Term 3 — Physical Education and Health Discuss potential hazards and ...",
+      "competency": "Physical Education and Health Discuss potential hazards and safety guidelines at home, in school, in the community, and outdoors. Demonstrate self-management skills for road safety. Analyze ways to prevent injuries during physical activity participations. Participate actively in different rhythmic activities and dances for maintaining their movement competence and physical activity participation."
+    }
+  }
+}
