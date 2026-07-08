@@ -1,5 +1,7 @@
 const BASE = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8000"
 
+export const AI_DEGRADED_EVENT = "ai-degraded"
+
 async function apiFetch<T>(path: string, options?: RequestInit): Promise<T> {
   const res = await fetch(`${BASE}${path}`, {
     headers: { "Content-Type": "application/json" },
@@ -7,6 +9,9 @@ async function apiFetch<T>(path: string, options?: RequestInit): Promise<T> {
   })
   if (!res.ok) {
     const err = await res.json().catch(() => ({ detail: res.statusText }))
+    if (res.status === 503 && typeof window !== "undefined") {
+      window.dispatchEvent(new CustomEvent(AI_DEGRADED_EVENT, { detail: err.detail }))
+    }
     throw new Error(err.detail ?? "API error")
   }
   return res.json() as Promise<T>

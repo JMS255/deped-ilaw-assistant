@@ -1,9 +1,15 @@
+import time
 from google import genai
 from google.genai import types
+from google.genai.errors import ServerError
 from functools import lru_cache
 from app.config import get_settings
 
 MODEL = "gemini-2.5-flash-lite"
+FALLBACK_MODEL = "gemini-2.5-flash"
+MAX_RETRIES = 3
+FALLBACK_MAX_RETRIES = 2
+RETRY_BACKOFF_SECONDS = 2
 
 ANTI_VAGUE_INSTRUCTION = """
 CRITICAL OUTPUT RULES — violating any of these will make the output unusable:
@@ -23,14 +29,33 @@ def get_client() -> genai.Client:
     return genai.Client(api_key=settings.gemini_api_key)
 
 
+def _call_model(client: genai.Client, model: str, prompt: str, retries: int) -> str:
+    for attempt in range(retries):
+        try:
+            response = client.models.generate_content(
+                model=model,
+                contents=prompt,
+                config=types.GenerateContentConfig(
+                    system_instruction=ANTI_VAGUE_INSTRUCTION,
+                ),
+            )
+            return response.text
+        except ServerError:
+            if attempt == retries - 1:
+                raise
+            time.sleep(RETRY_BACKOFF_SECONDS * (attempt + 1))
+
+
 def generate(prompt: str) -> str:
-    """Single function to call Gemini — returns raw text response."""
+    """Single function to call Gemini — returns raw text response.
+
+    Retries on transient server-side errors (503 overload) with backoff,
+    since Gemini's "high demand" errors are usually short-lived. If the
+    primary (flash-lite) model keeps failing, falls back to the full flash
+    model, which gets hit with less traffic.
+    """
     client = get_client()
-    response = client.models.generate_content(
-        model=MODEL,
-        contents=prompt,
-        config=types.GenerateContentConfig(
-            system_instruction=ANTI_VAGUE_INSTRUCTION,
-        ),
-    )
-    return response.text
+    try:
+        return _call_model(client, MODEL, prompt, MAX_RETRIES)
+    except ServerError:
+        return _call_model(client, FALLBACK_MODEL, prompt, FALLBACK_MAX_RETRIES)

@@ -3,6 +3,7 @@ import { Geist } from "next/font/google"
 import "./globals.css"
 import Link from "next/link"
 import { BookOpen, ClipboardList, CalendarDays } from "lucide-react"
+import { AiStatusBanner } from "@/components/AiStatusBanner"
 
 const geist = Geist({ subsets: ["latin"] })
 
@@ -37,6 +38,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
             </nav>
           </div>
         </header>
+        <AiStatusBanner />
         <main className="max-w-5xl mx-auto px-4 py-8">{children}</main>
         <footer className="text-center text-xs text-gray-400 py-6">
           DepEd ILAW Assistant — Para sa mga guro ng Pilipinas

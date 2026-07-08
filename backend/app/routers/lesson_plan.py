@@ -1,5 +1,6 @@
 from fastapi import APIRouter, HTTPException, Request
 from fastapi.responses import JSONResponse, StreamingResponse
+from google.genai.errors import ServerError
 from app.services.ilaw_engine import unpack_bow_objective, generate_weekly_ilaw_plan
 from app.services.docx_export import export_weekly_plan_docx
 from app.models.lesson import UnpackRequest, WeeklyILAWRequest, ILAWWeeklyPlan
@@ -7,6 +8,8 @@ import json
 import io
 
 router = APIRouter(prefix="/api/lesson", tags=["lesson"])
+
+AI_BUSY_MESSAGE = "The AI service is currently busy. Please try again in a moment."
 
 
 @router.post("/unpack")
@@ -16,6 +19,8 @@ def unpack_objective(req: UnpackRequest):
         return JSONResponse(content=result.model_dump())
     except json.JSONDecodeError:
         raise HTTPException(status_code=502, detail="AI returned malformed JSON. Try again.")
+    except ServerError:
+        raise HTTPException(status_code=503, detail=AI_BUSY_MESSAGE)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
@@ -57,6 +62,8 @@ async def generate_weekly(request: Request):
         })
     except json.JSONDecodeError:
         raise HTTPException(status_code=502, detail="AI returned malformed JSON. Try again.")
+    except ServerError:
+        raise HTTPException(status_code=503, detail=AI_BUSY_MESSAGE)
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
